@@ -13,7 +13,7 @@
 - <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react" width="20" /></a> React - mastering the intermediate/advanced concepts
 - <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts" width="20" /></a> TypeScript
 
-## Featured Projects
+## ⚡ Featured Projects
 
 ### [Markdown Text Editor](https://github.com/SA9102/Markdown-Text-Editor)
 
