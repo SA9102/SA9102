@@ -15,7 +15,6 @@
 - Aiming to get to an advanced level with React...
 - Learning how to master the less-common hooks such as `useReducer`, `useContext`, `useRef`, `useMemo` and more
 - Learning React-Router to add routing to my React projects.
-- Building intermediate-level projects to improve my skills
 
 ### <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts" width="20" /></a> TypeScript
 
@@ -29,8 +28,6 @@
 
 ***Create your own notes using Markdown and have them saved locally on your browser.***
 
-Responsive on mobile and tablet.
-
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=js,react,vite,css" width="100" />
 </a>
@@ -39,11 +36,6 @@ Responsive on mobile and tablet.
 
 ***View the current weather and forecast at almost any location in the world.***
 
-- Styling made with **Chakra UI**.
-- Features light and dark modes.
-- Uses APIs provided by [OpenWeatherMap](https://openweathermap.org/) to fetch the current weather data.
-- Responsive on mobile and tablet.
-
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=js,react" width="50" />
 </a>
@@ -51,11 +43,6 @@ Responsive on mobile and tablet.
 ### [Book Logger](https://github.com/SA9102/Book-Logger)
 
 ***Create records of books you have read, are reading, or currently want to read.***
-
-- Express for routing
-- MongoDB for storing the data (Mongoose as the ODM)
-- Passport.js for authentication
-- Responsive on mobile and tablet.
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=js,express,mongodb,css" width="100" />
