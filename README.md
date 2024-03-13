@@ -10,17 +10,8 @@
 
 ## 🌱 Currently learning ...
 
-### <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react" width="20" /></a> React
-
-- Aiming to get to an advanced level with React...
-- Learning how to master the less-common hooks such as `useReducer`, `useContext`, `useRef`, `useMemo` and more
-- Learning React-Router to add routing to my React projects.
-
-### <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts" width="20" /></a> TypeScript
-
-- Starting off with the basics of TypeScript.
-- Already learnt about types and how to create your own types.
-- Will use TypeScript from now on.
+- <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react" width="20" /></a> React - mastering the intermediate/advanced concepts
+- <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts" width="20" /></a> TypeScript
 
 ## Featured Projects
 
