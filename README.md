@@ -13,6 +13,7 @@
 
 - <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react" width="20" /></a> React - mastering the intermediate/advanced concepts
 - <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts" width="20" /></a> TypeScript
+- <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=svelte" width="20" /></a> Svelte - learning the very basics
 
 ## ⚡ Featured Projects
 
