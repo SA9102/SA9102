@@ -42,6 +42,9 @@
 
 ## :hammer_and_wrench: Coming Soon
 
+Markdown Text Editor 2.0 - will feature a better UI, a nested folder system to organise your notes, light and dark modes, and more!
+
+<!--
 ### Simple Flashcards
 
 A simple flashcard application where you create and organise your own flashcards and use them for revising. Will feature all CRUD operations.
@@ -51,7 +54,7 @@ This will be my most complex project to date, both in terms of the application i
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=ts,react,express,mongodb" width="100" />
 </a>
-
+-->
 <!--
 **SA9102/SA9102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
