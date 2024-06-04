@@ -18,9 +18,9 @@
 -->
 ## ⚡ Featured Projects
 
-### [Markdown Text Editor](https://github.com/SA9102/Markdown-Text-Editor)
+### [Markdown Text Editor 2.0](https://github.com/SA9102/Markdown-Text-Editor-2.0)
 
-***Create your own notes using Markdown and have them saved locally on your browser.***
+***A simple yet fast application for creating, organising and saving your notes.***
 <!--
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=js,react,vite,css" width="100" />
@@ -42,9 +42,11 @@
   <img src="https://skillicons.dev/icons?i=js,express,mongodb,css" width="100" />
 </a>
 -->
+<!--
 ## :hammer_and_wrench: Coming Soon
 
 Markdown Text Editor 2.0 - will feature a better UI, a nested folder system to organise your notes, light and dark modes, and more!
+-->
 
 <!--
 ### Simple Flashcards
