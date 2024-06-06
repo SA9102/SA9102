@@ -42,11 +42,11 @@
   <img src="https://skillicons.dev/icons?i=js,express,mongodb,css" width="100" />
 </a>
 -->
-<!--
-## :hammer_and_wrench: Coming Soon
 
-Markdown Text Editor 2.0 - will feature a better UI, a nested folder system to organise your notes, light and dark modes, and more!
--->
+## :hammer_and_wrench: What I'm working on
+
+Task Manager - Organise and keep track of your tasks.
+
 
 <!--
 ### Simple Flashcards
