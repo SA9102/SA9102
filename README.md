@@ -7,7 +7,9 @@
 - :computer: Languages: <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js" width="20" /></a> <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php" width="20" /></a> <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py" width="20" /></a> <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java" width="20" /></a> <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html" width="20" /></a> <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=css" width="20" /></a>
 - :package: Libraries/Frameworks: <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react" width="20" /></a> <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=express" width="20" /></a> <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb" width="20" /></a>
 - :wrench: Tools: <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode" width="20" /></a> <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git" width="20" /></a> <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=npm" width="20" /></a>
+<!--
 - :department_store: Working part-time as a Sales Advisor at Superdrug
+-->
 
 <!--
 ## 🌱 Currently learning ...
