@@ -11,8 +11,14 @@
 - :department_store: Working part-time as a Sales Advisor at Superdrug
 -->
 
-<!--
+
 ## 🌱 Currently learning ...
+
+- <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=svelte" width="20" /></a> Svelte
+- <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react" width="20" /></a> React
+- 🧪 JavaScript unit and integration testing
+
+<!--
 
 - <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react" width="20" /></a> React - mastering the intermediate/advanced concepts
 - <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts" width="20" /></a> TypeScript
