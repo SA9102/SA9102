@@ -3,7 +3,7 @@
 ## About Me
 
 - :book: Undergraduate at Queen Mary University of London, completing BSc in Computer Science
-- :star2: Aspiring a career in Full-Stack Software Engineering
+- :star2: Aspiring a career in full-stack software engineering, or possibly in data science and machine learning
 - :computer: Languages:
   - <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js" width="20" /></a> JavaScript
   - <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php" width="20" /></a> PHP
