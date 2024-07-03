@@ -4,8 +4,18 @@
 
 - :book: Undergraduate at Queen Mary University of London, completing BSc in Computer Science
 - :star2: Aspiring a career in Full-Stack Software Engineering
-- :computer: Languages: <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js" width="20" /></a> <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php" width="20" /></a> <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py" width="20" /></a> <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java" width="20" /></a> <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html" width="20" /></a> <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=css" width="20" /></a>
-- :package: Libraries/Frameworks: <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react" width="20" /></a> <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=express" width="20" /></a> <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb" width="20" /></a>
+- :computer: Languages:
+  - <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js" width="20" /></a> JavaScript
+  - <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php" width="20" /></a> PHP
+  - <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py" width="20" /></a> Python
+  - <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java" width="20" /></a> Java
+  - <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html" width="20" /></a> HTML
+  - <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=css" width="20" /></a> CSS
+- :package: Libraries/Frameworks:
+  - <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react" width="20" /></a> React
+  - <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=express" width="20" /></a> Express
+  - <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb" width="20" /></a> MongoDB
+  - <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vitest" width="20" /></a> Vitest + React Testing Library
 - :wrench: Tools: <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode" width="20" /></a> <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git" width="20" /></a> <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=npm" width="20" /></a>
 <!--
 - :department_store: Working part-time as a Sales Advisor at Superdrug
@@ -16,7 +26,7 @@
 
 - <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=svelte" width="20" /></a> Svelte
 - <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react" width="20" /></a> React
-- 🧪 JavaScript unit and integration testing
+- 🧪 Unit and integration testing with Vitest and React Testing Library
 
 <!--
 
@@ -52,6 +62,8 @@
 -->
 
 ## :hammer_and_wrench: What I'm working on
+
+Expenses Tracker - An application tailored specifically to my needs to keep track of my expenses and save as much as possible
 
 Task Manager - Organise and keep track of your tasks.
 
