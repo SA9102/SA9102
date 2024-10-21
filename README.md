@@ -6,7 +6,6 @@
 - :star2: Aspiring a career in full-stack software engineering, or possibly in data science and machine learning
 - :computer: Languages:
   - <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js" width="20" /></a> JavaScript
-  - <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php" width="20" /></a> PHP
   - <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py" width="20" /></a> Python
   - <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java" width="20" /></a> Java
   - <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html" width="20" /></a> HTML
