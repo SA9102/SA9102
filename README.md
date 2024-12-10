@@ -62,9 +62,9 @@
 
 ## :hammer_and_wrench: What I'm working on
 
-Expenses Tracker - An application tailored specifically to my needs to keep track of my expenses and save as much as possible
+<!--Expenses Tracker - An application tailored specifically to my needs to keep track of my expenses and save as much as possible-->
 
-Task Manager - Organise and keep track of your tasks.
+Todo App - Not just a simple todo app - this will include features that boosts productivity like categorising items, choosing priority, setting a time and date, filtering and more.
 
 
 <!--
