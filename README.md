@@ -2,9 +2,11 @@
 
 ## About Me
 
-- :book: Undergraduate at Queen Mary University of London, completing BSc in Computer Science
-- :star2: Aspiring a career in full-stack software engineering, or possibly in data science and machine learning
-- :computer: Languages:
+- :book: Second year at Queen Mary University of London, completing BSc in Computer Science
+- :convenience_store: Part-time sales assistant at Superdrug
+- :star2: Aspiring a career in full-stack software engineering
+- :brain: Also taking an interest data science and machine learning
+- :computer: Languages I know:
   - <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js" width="20" /></a> JavaScript
   - <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py" width="20" /></a> Python
   - <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java" width="20" /></a> Java
@@ -23,7 +25,6 @@
 
 ## 🌱 Currently learning ...
 
-- <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=svelte" width="20" /></a> Svelte
 - <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react" width="20" /></a> React
 - 🧪 Unit and integration testing with Vitest and React Testing Library
 
