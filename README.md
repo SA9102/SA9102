@@ -1,4 +1,4 @@
-# Welcome! 👋
+# Hi! 👋
 
 ## About Me
 
