@@ -26,6 +26,7 @@
 ## 🌱 Currently learning ...
 
 - <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react" width="20" /></a> React
+- :bear: Zustand
 - 🧪 Unit and integration testing with Vitest and React Testing Library
 
 <!--
