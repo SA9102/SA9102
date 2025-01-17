@@ -2,6 +2,8 @@
 
 ## About Me
 
+I am interested in front-end and back-end technologies that give power to web applications!
+
 - :book: Second year at Queen Mary University of London, completing BSc in Computer Science
 - :convenience_store: Part-time sales assistant at Superdrug
 - :star2: Aspiring a career in full-stack software engineering
