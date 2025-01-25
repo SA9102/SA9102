@@ -7,7 +7,7 @@ I am interested in full-stack development; I enjoy exploring front-end and back-
 - :book: Second year at Queen Mary University of London, completing BSc in Computer Science
 - :convenience_store: Part-time sales assistant at Superdrug
 - :star2: Aspiring a career in full-stack software engineering
-- :brain: Also taking an interest data science and machine learning
+- :brain: Also taking an interest data science, machine learning and blockchain
 - :computer: Languages I know:
   - <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js" width="20" /></a> JavaScript
   - <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py" width="20" /></a> Python
