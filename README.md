@@ -10,6 +10,7 @@ I am interested in full-stack development; I enjoy exploring front-end and back-
 - :brain: Also taking an interest data science, machine learning and blockchain
 - :computer: Languages I know:
   - <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js" width="20" /></a> JavaScript
+  - <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts" width="20" /></a> TypeScript
   - <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py" width="20" /></a> Python
   - <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java" width="20" /></a> Java
   - <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html" width="20" /></a> HTML
