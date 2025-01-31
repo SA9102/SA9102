@@ -69,7 +69,7 @@ I am interested in full-stack development; I enjoy exploring front-end and back-
 
 <!--Expenses Tracker - An application tailored specifically to my needs to keep track of my expenses and save as much as possible-->
 
-Todo App - Not just a simple todo app - this will include features that boosts productivity like categorising items, choosing priority, setting a time and date, filtering and more.
+Productivity App - A central place to record your notes and tasks, and manage them efficiently and productively.
 
 
 <!--
