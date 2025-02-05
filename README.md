@@ -69,7 +69,7 @@ I am interested in full-stack development; I enjoy exploring front-end and back-
 
 <!--Expenses Tracker - An application tailored specifically to my needs to keep track of my expenses and save as much as possible-->
 
-Productivity App - A central place to record your notes and tasks, and manage them efficiently and productively.
+Productivity App - A central place to record your notes and tasks, and manage them efficiently and productively. Being made with React and TypeScript.
 
 
 <!--
