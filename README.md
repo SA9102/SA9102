@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am interested in full-stack development; I enjoy exploring front-end and back-end technologies, in particular React, and MongoDB.
+I'm interested in full-stack development; I enjoy exploring front-end and back-end technologies, in particular React, and MongoDB.
 
 - :book: Second year at Queen Mary University of London, completing BSc in Computer Science
 - :convenience_store: Part-time sales assistant at Superdrug
