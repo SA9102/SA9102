@@ -4,10 +4,10 @@
 
 I'm interested in full-stack development; I enjoy exploring front-end and back-end technologies, in particular React, and MongoDB.
 
-- :book: Second year at Queen Mary University of London, completing BSc in Computer Science
-- :convenience_store: Part-time sales assistant at Superdrug
-- :star2: Aspiring a career in full-stack software engineering
-- :brain: Also taking an interest data science, machine learning and blockchain
+- :book: Computer Science undergraduate at Queen Mary University of London
+- :convenience_store: Part-time sales assistant at a retail company
+- :star2: Aspiring a career in full-stack development
+- :brain: Also taking an interest data science, cybersecurity, machine learning and blockchain
 - :computer: Languages I know:
   - <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js" width="20" /></a> JavaScript
   - <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts" width="20" /></a> TypeScript
@@ -19,19 +19,18 @@ I'm interested in full-stack development; I enjoy exploring front-end and back-e
   - <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react" width="20" /></a> React
   - <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=express" width="20" /></a> Express
   - <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb" width="20" /></a> MongoDB
-  - <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vitest" width="20" /></a> Vitest + React Testing Library
 - :wrench: Tools: <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode" width="20" /></a> <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git" width="20" /></a> <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=npm" width="20" /></a>
 <!--
 - :department_store: Working part-time as a Sales Advisor at Superdrug
 -->
 
-
+<!---
 ## 🌱 Currently learning ...
 
 - <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react" width="20" /></a> React
-- :bear: Zustand
-- 🧪 Unit and integration testing with Vitest and React Testing Library
-
+- <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs" width="20" /></a> Node
+- <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=express" width="20" /></a> Express
+--->
 <!--
 
 - <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react" width="20" /></a> React - mastering the intermediate/advanced concepts
@@ -69,7 +68,7 @@ I'm interested in full-stack development; I enjoy exploring front-end and back-e
 
 <!--Expenses Tracker - An application tailored specifically to my needs to keep track of my expenses and save as much as possible-->
 
-Productivity App - A central place to record your notes and tasks, and manage them efficiently and productively. Being made with React and TypeScript.
+Advanced Todo - A responsive, full-fledged todo application, complete with authentication to save your tasks in the cloud. Allows for efficient organisation of tasks through filtering, sorting and categorisation. Great for staying organised and keeping on top of your goals.
 
 
 <!--
