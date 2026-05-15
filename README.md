@@ -4,7 +4,7 @@
 
 I'm interested in full-stack development; I enjoy exploring front-end and back-end technologies, in particular React, and MongoDB.
 
-- :book: Computer Science undergraduate at Queen Mary University of London
+- :book: Final Year Computer Science undergraduate at Queen Mary University of London
 - :convenience_store: Part-time sales assistant at a retail company
 - :star2: Aspiring a career in full-stack development
 - :brain: Also taking an interest data science, cybersecurity, machine learning and blockchain
@@ -37,6 +37,13 @@ I'm interested in full-stack development; I enjoy exploring front-end and back-e
 - <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts" width="20" /></a> TypeScript
 - <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=svelte" width="20" /></a> Svelte - learning the very basics
 -->
+
+## :hammer_and_wrench: What I'm working on
+
+<!--Expenses Tracker - An application tailored specifically to my needs to keep track of my expenses and save as much as possible-->
+
+CrewHub - A small but complete collaboration platform for teams. Focused on clean architecture, modern full-stack development practices and polished user experience. Being developed with NextJS, TypeScript, and Prisma.
+
 ## ⚡ Featured Projects
 
 ### [Markdown Text Editor 2.0](https://github.com/SA9102/Markdown-Text-Editor-2.0)
@@ -64,11 +71,7 @@ I'm interested in full-stack development; I enjoy exploring front-end and back-e
 </a>
 -->
 
-## :hammer_and_wrench: What I'm working on
 
-<!--Expenses Tracker - An application tailored specifically to my needs to keep track of my expenses and save as much as possible-->
-
-Advanced Todo - A responsive, full-fledged todo application, complete with authentication to save your tasks in the cloud. Allows for efficient organisation of tasks through filtering, sorting and categorisation. Great for staying organised and keeping on top of your goals.
 
 
 <!--
